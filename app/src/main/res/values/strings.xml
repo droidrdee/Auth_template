@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Auth_template</string>
+    <string name="logo_and_other_image">Logo and other image</string>
+    <string name="your_product_name">Your Product Name</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
 </resources>
